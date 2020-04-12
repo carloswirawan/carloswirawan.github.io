@@ -1,0 +1,4 @@
+ghpages.publish('dist', {
+  branch: 'master',
+  repo: 'https://github.com/cawirawa/cawirawa.github.io.git'
+}, callback);
