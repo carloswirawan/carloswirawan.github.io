@@ -1,0 +1,42 @@
+
+.App {
+  height: 100vh;
+  background: url("img/space.jpg");
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: Courier, Arial, Helvetica, sans-serif;
+}
+
+button {
+  border-radius: 5px;
+  background-color: transparent;
+  color: white;
+  transform: translateY(80px);
+  position: absolute;
+  border-color: white;
+  border-style: groove;
+  text-align: center;
+  font-size: 30px;
+  width: 7em;
+  cursor: pointer;
+  transition: all 0.5s;
+}
+
+button:hover {
+  font-size:  32.5px;
+  color: lightcyan;
+  border-color: lightcyan;
+}
+
+
+
+#Welcome {
+  
+  transform: translateY(-30px);
+  position: absolute;
+  color: wheat;
+  display: inline-block;
+  font-size: 9em;
+}
