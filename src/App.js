@@ -17,7 +17,7 @@ class App extends Component {
       
     return (
       <div className="App">
-        <title>Welcome!</title>}
+        <title>Welcome</title>
         <h1 id="Welcome">Welcome</h1>
         <button title="See Carlos' portfolio" onClick={this.setRedirect}>Portfolio</button>
       </div>
