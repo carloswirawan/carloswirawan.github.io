@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/carloswirawan.github.io/static/css/main.f77be893.chunk.css",
+    "main.js": "/carloswirawan.github.io/static/js/main.ad478809.chunk.js",
+    "main.js.map": "/carloswirawan.github.io/static/js/main.ad478809.chunk.js.map",
+    "runtime-main.js": "/carloswirawan.github.io/static/js/runtime-main.2cbbed1f.js",
+    "runtime-main.js.map": "/carloswirawan.github.io/static/js/runtime-main.2cbbed1f.js.map",
+    "static/js/2.2e6a2227.chunk.js": "/carloswirawan.github.io/static/js/2.2e6a2227.chunk.js",
+    "static/js/2.2e6a2227.chunk.js.map": "/carloswirawan.github.io/static/js/2.2e6a2227.chunk.js.map",
+    "index.html": "/carloswirawan.github.io/index.html",
+    "precache-manifest.beaacd525f245d1d2babac357dd4ac98.js": "/carloswirawan.github.io/precache-manifest.beaacd525f245d1d2babac357dd4ac98.js",
+    "service-worker.js": "/carloswirawan.github.io/service-worker.js",
+    "static/css/main.f77be893.chunk.css.map": "/carloswirawan.github.io/static/css/main.f77be893.chunk.css.map",
+    "static/js/2.2e6a2227.chunk.js.LICENSE.txt": "/carloswirawan.github.io/static/js/2.2e6a2227.chunk.js.LICENSE.txt",
+    "static/media/carlos.jpg": "/carloswirawan.github.io/static/media/carlos.3b5f165b.jpg",
+    "static/media/portfolio.css": "/carloswirawan.github.io/static/media/space.e2028ca9.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2cbbed1f.js",
+    "static/js/2.2e6a2227.chunk.js",
+    "static/css/main.f77be893.chunk.css",
+    "static/js/main.ad478809.chunk.js"
+  ]
+}
